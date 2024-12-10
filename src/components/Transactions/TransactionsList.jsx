@@ -1,5 +1,6 @@
 import React from 'react';
-import styles from './components/Transactions/Transactions.module.css';
+import styles from './Transactions.module.css';
+
 
 const TransactionsList = ({ items }) => {
   return (
